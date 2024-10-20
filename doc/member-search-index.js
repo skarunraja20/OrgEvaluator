@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"com.swissre.assignment","c":"OrgEvaluator","l":"OrgEvaluator()","u":"%3Cinit%3E()"}];updateSearchResults();
